@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "252129824692",
+    "firebase_url": "https://calander-test-2-auth-default-rtdb.firebaseio.com",
+    "project_id": "calander-test-2-auth",
+    "storage_bucket": "calander-test-2-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252129824692:android:765feb066134a660c0ace1",
+        "android_client_info": {
+          "package_name": "com.imbricateDemo.calandertest2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252129824692-csvk8bg79nh604nla2svj5uiqg4ua233.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhtzTgrviIB35KNPm8OfyPW5_Vb4tQZ48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252129824692-csvk8bg79nh604nla2svj5uiqg4ua233.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
